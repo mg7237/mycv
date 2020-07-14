@@ -53,6 +53,11 @@ a:hover {
   padding-top: 100px;
 }
 
+.privacy {
+  background-color: #E4F9F5;
+  text-align: left;
+}
+
 .middle-container {
   margin: 100px 0;
 }
